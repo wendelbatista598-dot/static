@@ -1,0 +1,149 @@
+{
+  "name": "Clube BRB - Banco de Brasília",
+  "short_name": "Clube BRB",
+  "description": "Aplicativo bancário digital do Banco de Brasília com sistema de missões, desafios e clube de benefícios exclusivos. Acumule pontos, resgate recompensas e aproveite experiências únicas.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#004B8D",
+  "background_color": "#ffffff",
+  "categories": [
+    "finance",
+    "lifestyle",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "purpose": "any"
+    },
+    {
+      "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+      "type": "image/png",
+      "sizes": "72x72",
+      "purpose": "any"
+    },
+    {
+      "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "any"
+    },
+    {
+      "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "any"
+    },
+    {
+      "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    },
+    {
+      "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+      "type": "image/png",
+      "sizes": "152x152",
+      "purpose": "any"
+    },
+    {
+      "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+      "type": "image/png",
+      "sizes": "384x384",
+      "purpose": "any"
+    },
+    {
+      "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+      "type": "image/png",
+      "sizes": "1080x1920",
+      "form_factor": "narrow",
+      "label": "Tela inicial do Clube BRB com missões e benefícios"
+    },
+    {
+      "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+      "type": "image/png",
+      "sizes": "1920x1080",
+      "form_factor": "wide",
+      "label": "Dashboard do Clube BRB - versão desktop"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Minhas Missões",
+      "short_name": "Missões",
+      "description": "Visualize e complete suas missões disponíveis",
+      "url": "/?tab=missions",
+      "icons": [
+        {
+          "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Recompensas",
+      "short_name": "Recompensas",
+      "description": "Acesse suas recompensas e benefícios exclusivos",
+      "url": "/?tab=rewards",
+      "icons": [
+        {
+          "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "short_name": "Shopping",
+      "description": "Compre produtos e experiências com pontos",
+      "url": "/?tab=shopping",
+      "icons": [
+        {
+          "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Meu Clube",
+      "short_name": "Meu Clube",
+      "description": "Veja seu perfil e histórico de benefícios",
+      "url": "/?tab=club",
+      "icons": [
+        {
+          "src": "https://trainee.wendel.bsb.br/_assets/v11/00506aa76b6c6f29fe10032a98ef10b176a14deb.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
+
